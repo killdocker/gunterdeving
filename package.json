@@ -1,0 +1,33 @@
+{
+  "name": "gunterdeving",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "gunterdeving.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killdocker/gunterdeving"
+  },
+  "website": "https://github.com/killdocker/gunterdeving.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "killdocker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killdocker/gunterdeving/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/killdocker/gunterdeving#readme",
+  "dependencies": {
+    "mccarthysharonagnesh": "1.0.2"
+  }
+}
